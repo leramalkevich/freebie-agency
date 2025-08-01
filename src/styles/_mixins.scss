@@ -1,0 +1,14 @@
+@mixin titleSectionStyles(){
+  font-family: Oswald, sans-serif;
+  font-weight: 700;
+  font-size: 48px;
+  letter-spacing: 3.07px;
+  color: #252525;
+  .bottomLine {
+    margin-top: 7px;
+    width: 45px;
+    height: 2px;
+    background: #252525;
+  }
+
+}
